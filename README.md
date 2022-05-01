@@ -11,11 +11,11 @@
 
 ### What are we solving :
 
-![Alt text](src/Readme/1.png?raw=true "Title")
+![Alt text](1.png?raw=true "Title")
 
 ## Our system design is as follows :
 
-![Alt text](src/Readme/3.png?raw=true "Title")
+![Alt text](3.png?raw=true "Title")
 
 - Donors can donate blood, possibly at the campsite or at the blood bank itself.
 - Information about the donated blood is recorded in the blockchain. A new block of data consisting of Information like Aadhaar numbers, blood group, blood ID, Etc. is appended to the Blood Store.
@@ -33,7 +33,7 @@
 
 ## A basic overview of our entire system :
 
-![Alt text](src/Readme/4.png?raw=true "Title")
+![Alt text](4.png?raw=true "Title")
 
 ## Conclusion :
 
