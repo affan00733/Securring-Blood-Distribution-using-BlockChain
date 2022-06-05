@@ -56,6 +56,7 @@ const getWeb3 = async () => {
     return tempWeb3;
 };
 
+
 const App = () => {
     const [web3, setWeb3] = useState(undefined);
     const [accounts, setAccounts] = useState([]);
